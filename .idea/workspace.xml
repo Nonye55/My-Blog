@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7240036d-d43b-4b5d-a5d6-d9faccb66137" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/accounts/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accounts/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accounts/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accounts/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accounts/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accounts/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accounts/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/accounts/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/registration/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/signup.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog_project/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog_project/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +77,7 @@
       <option name="presentableId" value="Default" />
       <updated>1596195777879</updated>
       <workItem from="1596195806054" duration="25982000" />
-      <workItem from="1596386456744" duration="13035000" />
+      <workItem from="1596386456744" duration="13549000" />
     </task>
     <servers />
   </component>
